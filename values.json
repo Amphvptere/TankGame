@@ -1,5 +1,5 @@
 [
-  {"name":"Super*",        "low":220000000, "high":240000000, "demand":5,   "supply":1,   "trend":0},
+  {"name":"Super*",        "low":210000000, "high":240000000, "demand":5,   "supply":1,   "trend":0},
   {"name":"Triple Railgun*","low":65000000, "high":90000000,  "demand":4, "supply":1,    "trend":0},
   {"name":"Artemis",       "low":23000000,  "high":26000000,  "demand":2, "supply":2,   "trend":-2},
   {"name":"Ultra",         "low":24000000,  "high":27000000,  "demand":5,   "supply":2.5, "trend":1},
