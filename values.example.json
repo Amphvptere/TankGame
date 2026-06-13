@@ -1,0 +1,16 @@
+[
+  {"name":"Super*",        "low":180000000, "high":200000000, "demand":5,   "supply":1,   "trend":0},
+  {"name":"Triple Railgun*","low":70000000,  "high":90000000,  "demand":4.5, "supply":1,   "trend":0},
+  {"name":"Artemis",       "low":25000000,  "high":27000000,  "demand":2.5, "supply":2,   "trend":-2},
+  {"name":"Ultra",         "low":23000000,  "high":25000000,  "demand":5,   "supply":2.5, "trend":0},
+  {"name":"Omega",         "low":17000000,  "high":18000000,  "demand":3,   "supply":2,   "trend":-1},
+  {"name":"Suppress",      "low":7000000,   "high":8000000,   "demand":3,   "supply":3.5, "trend":1},
+  {"name":"Atomic",        "low":2500000,   "high":3500000,   "demand":2.5, "supply":3,   "trend":0},
+  {"name":"Leopard",       "low":1500000,   "high":2000000,   "demand":2,   "supply":3,   "trend":0},
+  {"name":"Epsilon",       "low":750000,    "high":1100000,   "demand":1.5, "supply":3.5, "trend":0},
+  {"name":"Snowflake",     "low":450000,    "high":700000,    "demand":2.5, "supply":3,   "trend":0},
+  {"name":"Turtle",        "low":325000,    "high":400000,    "demand":1,   "supply":3,   "trend":-1},
+  {"name":"Allspiker",     "low":200000,    "high":300000,    "demand":1.5, "supply":4.5, "trend":1},
+  {"name":"Mammoth",       "low":40000,     "high":80000,     "demand":0.5, "supply":4.5, "trend":0},
+  {"name":"Sidecluster",   "low":15000,     "high":25000,     "demand":0.5, "supply":4,   "trend":0}
+]
