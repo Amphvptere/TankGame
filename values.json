@@ -1,9 +1,9 @@
 [
   {"name":"Super*",        "low":160000000, "high":290000000, "demand":5,   "supply":1,   "trend":0},
   {"name":"Triple Railgun*","low":75000000, "high":95000000,  "demand":4, "supply":1.5,    "trend":1},
-  {"name":"Ultra",         "low":24000000,  "high":28000000,  "demand":5,   "supply":2.5, "trend":0},
+  {"name":"Ultra",         "low":23500000,  "high":28000000,  "demand":5,   "supply":2.5, "trend":0},
   {"name":"Artemis",       "low":22000000,  "high":26000000,  "demand":3, "supply":2,   "trend":-1},
-  {"name":"Omega",         "low":16000000,  "high":18000000,  "demand":2,   "supply":2.5,   "trend":-1},
+  {"name":"Omega",         "low":15000000,  "high":18000000,  "demand":2,   "supply":2.5,   "trend":-1},
   {"name":"Suppress",      "low":7000000,   "high":9000000,   "demand":3.5, "supply":3,   "trend":1},
   {"name":"Atomic",        "low":2500000,   "high":3500000,   "demand":3, "supply":3.5,   "trend":0},
   {"name":"Leopard",       "low":1500000,   "high":2250000,   "demand":3,   "supply":3.5,   "trend":0},
