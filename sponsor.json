@@ -1,0 +1,9 @@
+{
+  "name": "Sponsor Name",
+  "blurb": "Short description ≤ 90 chars",
+  "logo": "sponsors/logo.png",
+  "url": "https://example.com",
+  "codes": [
+    { "code": "EXAMPLECODE", "note": "Reward description" }
+  ]
+}
