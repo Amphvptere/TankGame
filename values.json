@@ -5,7 +5,7 @@
   {"name":"Ultra",         "low":24000000,  "high":27000000,  "demand":5,   "supply":2.5, "trend":1},
   {"name":"Omega",         "low":10000000,  "high":16500000,  "demand":2.5, "supply":2,   "trend":-1},
   {"name":"Suppress",      "low":7000000,   "high":8100000,   "demand":2.5, "supply":3,   "trend":1},
-  {"name":"Atomic",        "low":22500000,   "high":3000000,   "demand":3,   "supply":3.5, "trend":0},
+  {"name":"Atomic",        "low":2250000,   "high":3000000,   "demand":3,   "supply":3.5, "trend":0},
   {"name":"Leopard",       "low":1000000,   "high":1500000,   "demand":2,   "supply":3.5, "trend":0},
   {"name":"Epsilon",       "low":800000,    "high":1000000,   "demand":2.5, "supply":4,   "trend":0},
   {"name":"Snowflake",     "low":500000,    "high":750000,    "demand":2.5, "supply":3.5, "trend":0},
