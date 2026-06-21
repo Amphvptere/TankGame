@@ -1,16 +1,16 @@
 [
-  {"name":"Super*",        "low":250000000, "high":290000000, "demand":4.5, "supply":1,   "trend":2},
-  {"name":"Triple Railgun*","low":80000000, "high":92000000,  "demand":4,   "supply":1.5, "trend":1},
-  {"name":"Artemis",       "low":21000000,  "high":25000000,  "demand":2,   "supply":2,   "trend":-2},
+  {"name":"Super*",        "low":290000000, "high":3300000000, "demand":4.5, "supply":1,   "trend":2},
+  {"name":"Triple Railgun*","low":88000000, "high":100000000,  "demand":4,   "supply":1.5, "trend":1},
+  {"name":"Artemis",       "low":18000000,  "high":23000000,  "demand":2,   "supply":2,   "trend":-2},
   {"name":"Ultra",         "low":24000000,  "high":27000000,  "demand":5,   "supply":2.5, "trend":1},
-  {"name":"Omega",         "low":12000000,  "high":16000000,  "demand":2.5, "supply":2,   "trend":-1},
-  {"name":"Suppress",      "low":7500000,   "high":8500000,   "demand":2.5, "supply":3,   "trend":1},
-  {"name":"Atomic",        "low":2500000,   "high":3500000,   "demand":3,   "supply":3.5, "trend":0},
-  {"name":"Leopard",       "low":1500000,   "high":2000000,   "demand":2,   "supply":3.5, "trend":0},
+  {"name":"Omega",         "low":10000000,  "high":16500000,  "demand":2.5, "supply":2,   "trend":-1},
+  {"name":"Suppress",      "low":7000000,   "high":8100000,   "demand":2.5, "supply":3,   "trend":1},
+  {"name":"Atomic",        "low":22500000,   "high":3000000,   "demand":3,   "supply":3.5, "trend":0},
+  {"name":"Leopard",       "low":1000000,   "high":1500000,   "demand":2,   "supply":3.5, "trend":0},
   {"name":"Epsilon",       "low":800000,    "high":1000000,   "demand":2.5, "supply":4,   "trend":0},
-  {"name":"Snowflake",     "low":600000,    "high":850000,    "demand":2.5, "supply":3.5, "trend":0},
-  {"name":"Turtle",        "low":300000,    "high":400000,    "demand":1.5, "supply":5,   "trend":-1},
-  {"name":"Allspiker",     "low":200000,    "high":325000,    "demand":1.5, "supply":4,   "trend":0},
+  {"name":"Snowflake",     "low":500000,    "high":750000,    "demand":2.5, "supply":3.5, "trend":0},
+  {"name":"Turtle",        "low":300000,    "high":325000,    "demand":1.5, "supply":5,   "trend":-1},
+  {"name":"Allspiker",     "low":212500,    "high":325000,    "demand":1.5, "supply":4,   "trend":0},
   {"name":"Mammoth",       "low":50000,     "high":100000,    "demand":1.5, "supply":4,   "trend":-1},
-  {"name":"Sidecluster",   "low":15000,     "high":30000,     "demand":1,   "supply":5,   "trend":-1}
+  {"name":"Sidecluster",   "low":15000,     "high":42500,     "demand":1,   "supply":5,   "trend":-1}
 ]
